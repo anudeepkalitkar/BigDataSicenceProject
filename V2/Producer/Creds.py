@@ -1,0 +1,5 @@
+AerisCreds = [
+]
+
+GeoNamesUsername = ''
+
